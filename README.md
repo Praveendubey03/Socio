@@ -9,8 +9,8 @@ Built using the MERN stack with Socket.IO integration for real-time communicatio
 
 # 🌐 Live Demo
 
-* Frontend: https://your-frontend-url.vercel.app
-* Backend API: https://your-backend-url.onrender.com
+* Frontend:
+* Backend API:
 
 ---
 
